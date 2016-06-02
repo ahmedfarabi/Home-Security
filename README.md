@@ -1,2 +1,2 @@
-# Home-Security
-A Arduino based hardware project for home security using sensor alerts and keypad lock system
+# Home_Security
+Simple home security system implementation.
